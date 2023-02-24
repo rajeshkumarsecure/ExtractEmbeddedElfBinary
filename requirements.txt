@@ -1,0 +1,2 @@
+lief==0.12.3
+yara-python==4.2.3
