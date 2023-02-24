@@ -20,13 +20,13 @@ pip install -r requirements.txt
 *Linux:*
 
 ```shell
-python3 compilerIdentification.py
+python3 compilerIdentification.py <path_to_binary>
 ```
 
 *Windows:*
 
 ```shell
-python compilerIdentification.py
+python compilerIdentification.py <path_to_binary>
 ```
 
 **Notes:**  
